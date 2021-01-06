@@ -209,3 +209,38 @@ h5{
     float: left;
     margin-right: 20px;
 }
+
+.fifth-section{
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
+    box-shadow: 10px 10px 40px #ddd;
+}
+.fifth-section > h6{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    color: salmon;
+    
+}
+
+.touch{
+    width: 38%;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.touch h6{
+    font-size: 18px ;
+    margin-bottom: 10px;
+}
+
+.touch p{
+    margin-bottom: 10px;
+    
+}
+
+.touch .heading{
+    font-weight: bold;
+}
+
